@@ -1,0 +1,361 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ATH Eeg and Manage
+</name>
+</assembly>
+<members>
+<member name="T:ATH_Eeg_and_Manage.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ATH_Eeg_and_Manage.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ATH_Eeg_and_Manage.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ATH_Eeg_and_Manage.My.Resources.Resources._error">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ATH_Eeg_and_Manage.My.Resources.Resources.erika_fletcher_YfNWGrQI3a4_unsplash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ATH_Eeg_and_Manage.My.Resources.Resources.Logo2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ATH_Eeg_and_Manage.My.Resources.Resources.Logo21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ATH_Eeg_and_Manage.My.Resources.Resources.Success">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet.AttendanceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet.MentorsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet.StudentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet.WorkshopDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet.Mentors1DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet.Mentors2DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet.Mentors3DataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet.AttendanceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet.MentorsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet.StudentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet.WorkshopRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet.Mentors1Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet.Mentors2Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet.Mentors3Row">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet.AttendanceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet.MentorsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet.StudentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet.WorkshopRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet.Mentors1RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet.Mentors2RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSet.Mentors3RowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSetTableAdapters.AttendanceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSetTableAdapters.MentorsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSetTableAdapters.StudentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSetTableAdapters.WorkshopTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSetTableAdapters.Mentors1TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSetTableAdapters.Mentors2TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSetTableAdapters.Mentors3TableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ATH_Eeg_and_Manage.ATHDatabaseDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ATH_Eeg_and_Manage.ATHDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ATH_Eeg_and_Manage.ATHDatabaseDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ATH_Eeg_and_Manage.ATHDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ATH_Eeg_and_Manage.ATHDatabaseDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ATH_Eeg_and_Manage.ATHDatabaseDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ATH_Eeg_and_Manage.ATHDatabaseDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ATH_Eeg_and_Manage.ATHDatabaseDataSetTableAdapters.TableAdapterManager.UpdateAll(ATH_Eeg_and_Manage.ATHDatabaseDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHDatabaseDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHRAMSDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHRAMSDataSet.ManageDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHRAMSDataSet.MentorsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHRAMSDataSet.RelateDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHRAMSDataSet.StudentsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHRAMSDataSet.ManageRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHRAMSDataSet.MentorsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHRAMSDataSet.RelateRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHRAMSDataSet.StudentsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHRAMSDataSet.ManageRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHRAMSDataSet.MentorsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHRAMSDataSet.RelateRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHRAMSDataSet.StudentsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHRAMSDataSetTableAdapters.ManageTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHRAMSDataSetTableAdapters.MentorsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHRAMSDataSetTableAdapters.RelateTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHRAMSDataSetTableAdapters.StudentsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHRAMSDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ATH_Eeg_and_Manage.ATHRAMSDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ATH_Eeg_and_Manage.ATHRAMSDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ATH_Eeg_and_Manage.ATHRAMSDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ATH_Eeg_and_Manage.ATHRAMSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ATH_Eeg_and_Manage.ATHRAMSDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ATH_Eeg_and_Manage.ATHRAMSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ATH_Eeg_and_Manage.ATHRAMSDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ATH_Eeg_and_Manage.ATHRAMSDataSetTableAdapters.TableAdapterManager.UpdateAll(ATH_Eeg_and_Manage.ATHRAMSDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHRAMSDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ATH_Eeg_and_Manage.ATHRAMSDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
